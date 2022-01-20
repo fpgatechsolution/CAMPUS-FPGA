@@ -2,12 +2,13 @@
 
 
 
+# board_test_50a.bit file is test bit file 
 
-# board_test.bit file is bit file to test LCD, seven segment, relay, buzzer 
-sp6_star_board_test is having ISE project with all source code 
+by press sw2 switch you will get following massage on uart with 9600 baud rate
 
-# adc_test.bit file is bit file to test adcmcp3004, stepper motor & DC motor 
-adc is having ISE project with all source code 
+ THIS FPGA KIT IS DESIGN AND DEVELOPED BY FPGATECHSOLUTION
+ VISIT US WWW.FPGATECHSOLUTION.COM
+ VISIT US WWW.FPGATECHSOLUTION.COM
 
-# dac_test.bit file is bit file to test LCD, dac 
-dac is having ISE project with all source code 
+
+by press sw4 switch counter will increase on 7seg
